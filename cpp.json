@@ -1,0 +1,14 @@
+{
+	"Cpp Template": {
+		"prefix": "cpp",
+		"body": [
+			"#include <bits/stdc++.h>",
+			"using namespace std;"
+			"",
+			"int main() {",
+			"	",
+			"}"
+		],
+		"description": "Cpp Template"
+	},
+}
